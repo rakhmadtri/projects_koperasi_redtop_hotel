@@ -1,0 +1,28 @@
+Pastikan terlebih dahulu stok yang di pesan customer mencukupi !
+Langkah-langkah 
+1. Masuk ke menu Edit Penjualan :
+http://localhost/redtop_hotel/transaksi_penjualan/index_edit_penjualan
+2. Pilih Order Yang mau di edit ,lalu klik submit.
+
+
+
+
+
+1.New Customer
+-Silahkan Langsung di edit QTY nya .
+- Transaksi Selesai
+
+2.Anggota Koperasi
+Jika yang transaksi penjualan dari anggota koperasi,maka ada 3 kondisi :
+a) Anggota Membeli CASH
+b) Anggota Membeli Kredit , Namun belum di bayarkan .
+c) Anggota Membeli Kredit , Dan sudah di bayarkan .
+
+Solusi :
+a) Silahkan Lanjutkan transaksi sd selesai .
+b) Silahkan Lanjutkan transaksi sd selesai .
+c) Lihat Nominal yang sudah di bayarkan pada bagian Atas Nota .
+   maka pembayaran tsb harus di kembalikan ke customer/anggota .
+
+
+

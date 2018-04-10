@@ -1,0 +1,55 @@
+body{
+	margin: 0;
+	/*background: #000;*/
+	font-family: calibri;
+}
+.wrap{
+	width: 976px;
+	margin: auto;
+	}
+.header{
+	background-image: url(../images/foto.gif);
+	background-repeat: no-repeat;
+	background-position: center center;
+/*	background: url(../images/foto.gif) no-repeat center center;*/
+	border-top:solid 5px #f79623;
+	height: 64px;
+}
+.footer {
+	border-top: solid 1px black;
+	padding : 20px 0px 10px;
+	text-align: center;
+}
+.menu{
+	background-color: blue;
+	height: 39px;
+}
+.content{
+	padding: 10px 0px;
+	width: 976px;
+	margin: auto;
+	min-height: 500px;
+}
+.content_error{
+	padding: 10px 0px;
+	width: 100px;
+	margin: auto;
+	min-height: 500px;
+}
+.menu-kiri{
+	margin: 0px;
+	padding: 0px;
+}
+.menu-kiri li {
+	float: left;
+}
+.menu-kiri li a{
+	color: white;
+	padding: 10px ;
+	display: block;
+	text-decoration: none;
+}
+.menu-kiri li a:hover{
+	color: green;
+	background: white;
+}

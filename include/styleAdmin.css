@@ -1,0 +1,29 @@
+body {margin:0; margin:0 }
+.tRingkasanPemesanan{font-family: arial,tahoma;color:#606060; font-size:13pt;text-decoration: none;font-weight:bold; text-align:left; line-height:20px}.tDetailFooter{font-family: arial,tahoma;color:#353535; font-size:10pt;text-decoration:none;font-weight:normal; text-align:left;line-height:20px}
+.tLogout{font-family: arial,tahoma;color:#046196; font-size:10pt;text-decoration: underline;font-weight:bold; text-align:left;line-height:20px}
+.boxProduk{ border:1px #e4e4e4 solid}
+.tMenuMember2{font-family: arial,tahoma;color:#ff8400; font-size:13pt;text-decoration: none;font-weight:bold; text-align:left; line-height:35px;padding-left:10px}
+.tDetailMember{font-family: arial,tahoma;color:#353535; font-size:10pt;text-decoration:none;font-weight:bold; text-align:left;line-height:30px; }
+.tCartPeringatan{border:1px #db363c dashed; font-family: arial,tahoma;color:#e10008; font-size:9pt; padding:5px; line-height:20px}
+.tBerita{font-family: arial,tahoma;color:#353535; font-size:10pt;text-decoration: none;font-weight:normal;text-align:left; line-height:20px}
+.tTopMenu{font-family: arial,tahoma;color:#fff; font-size:9pt;text-decoration:none;font-weight:bold; text-align:center;line-height:20px}
+.MemberTab{background-color:#626262; line-height:30px;}
+.tTopMenu2{font-family: arial,tahoma;color:#626262; font-size:9pt;text-decoration:none;font-weight:normal; text-align:center;line-height:20px}
+.tMenuMemberLink{font-family: arial,tahoma;color:#ff8400; font-size:10pt;text-decoration: none;font-weight:bold; text-align:left}
+.tTotalBelanja{font-family: arial,tahoma;color:#353535; font-size:10pt;text-decoration: none;font-weight:normal; text-align:left; line-height:20px}
+.tTotalBelanja2{font-family: arial,tahoma;color:#353535; font-size:10pt;text-decoration: none;font-weight:normal; text-align:right; line-height:20px}
+.tTotalHargaBelanja{font-family: arial,tahoma;color:#ce181f; font-size:10pt;text-decoration: none;font-weight:Bold; text-align:right; line-height:20px}
+.ListBox{ font-family: Arial,Tahoma; font-size:9pt; color:#333; text-align:left; width:250px;height:25px}
+
+/*Transaksi*/
+.tabHeadTran{background-color:#666}
+.tHeadTran{ font-family: Arial,Tahoma; font-size:10pt; color:#fff; font-weight:bold;text-align:center; padding:3px 3px 3px 3px}
+.tTran{ background-color:#efefef;font-family: Arial,Tahoma; font-size:10pt; color:#333; text-align:left;padding:3px}
+.tBokIsi{ font-family: Arial,Tahoma; font-size:11px; color:#333; width:100px}
+.tStatus{font-family: Arial,Tahoma; font-size:11px; color:#cd0001;font-weight:bold}
+
+/*Daftar Tabel*/
+.tabDaftar{background-color:#efefef}
+.tTitDaftar{ font-family: Arial,Tahoma; font-size:11px; color:#333; font-weight:bold;text-align:left}
+.tDaftar{ font-family: Arial,Tahoma; font-size:9pt; color:#333; text-align:left}
+.textBox{ font-family: Arial,Tahoma; font-size:9pt; color:#333; text-align:left; width:250px; height:25px}

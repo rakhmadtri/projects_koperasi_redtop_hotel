@@ -1,0 +1,6 @@
+Pelayanan Harga Beli : Rp. 0,00 ;
+SELECT *
+FROM transaksi tr
+WHERE 1
+GROUP BY tr.`order_id`
+HAVING SUM(cash+kredit)>total_after_ppn

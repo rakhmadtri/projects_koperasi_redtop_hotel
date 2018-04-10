@@ -1,0 +1,36 @@
+Redtop :
+Product Bermasalah :
+8998989300391 
+8999999706180-
+
+- Anggota
+	- NoAnggota (Contoh : RTCC9999)
+	- NIK 
+	- Nama
+	- Departemen
+	- Jabatan
+	- Alamat
+	- No. Telpon
+
+- Departemen
+	- KodeDepartemen (Contoh : AUTONUMBER)
+	- NamaDepartemen
+	- Deskripsi
+
+- Barang
+	
+- Supplier
+
+Transaksi
+
+- Simpanan
+- Pinjaman
+
+- Pembelian
+	- PO
+	- Barang Masuk
+- penjualan (Penjualan untuk anggota dan none anggota)
+
+PO(po ada approval dari ketua maka terciptalah PO) status ('autorized','Approved')
+
+Report

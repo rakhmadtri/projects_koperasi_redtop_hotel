@@ -1,0 +1,38 @@
+div.error, span.error{
+  position: absolute;
+  right: -250px;
+  top: 0;
+  color: #fff;
+  padding: 5px 10px;
+  padding-left: 31px;
+  margin-top: 2px;
+  font-size: 9pt;
+  font-size: 13px;
+  width: 250px;
+  box-sizing: border-box;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+  border-radius: 2px;
+  z-index: 99;
+  background: url(validation-icon.png) no-repeat #ed1c24 10px 5px;
+  border-bottom: solid 1px #9e1d20;
+  display: none;
+}
+
+div.error:before, span.error:before{
+  content: "";
+  display: block;
+  width: 0; 
+  height: 0; 
+  position: absolute;
+  left: -10px;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  border-left: 5px solid transparent;
+  border-right: 5px solid #ed1c24;
+  border-bottom: 5px solid transparent;
+  border-top: 5px solid transparent;
+}
